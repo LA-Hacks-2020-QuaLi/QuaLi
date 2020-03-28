@@ -4,20 +4,7 @@ var options = {
     item: '<li><h3 class="name"></h3><p class="born"></p></li>'
 };
 
-var values = [
-    {
-        name: 'Jonny Strömberg',
-        born: 1986
-    },
-    {
-        name: 'Jonas Arnklint',
-        born: 1985
-    },
-    {
-        name: 'Martina Elm',
-        born: 1986
-    }
-];
+var values = require('../Data/Data.json');
 
 var userList = new List('users', options, values);
 
