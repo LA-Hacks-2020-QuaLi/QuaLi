@@ -11,5 +11,36 @@
 <p>
     Paragraph 1
 </p>
+<div id="activities">
+
+    <!-- class="search" automagically makes an input a search field. -->
+    <input class="search" placeholder="Search" />
+    <!-- class="sort" automagically makes an element a sort buttons. The date-sort value decides what to sort by. -->
+    <button class="sort" data-sort="name">
+        Sort
+    </button>
+
+    <!-- Child elements of container with class="list" becomes list items -->
+    <ul class="list">
+        <li>
+            <!-- The innerHTML of children with class="name" becomes this items "name" value -->
+            <h3 class="name">Puzzles</h3>
+            <p class="people">3</p>
+        </li>
+        <li>
+            <h3 class="name">Art</h3>
+            <p class="people">5</p>
+        </li>
+        <li>
+            <h3 class="name">Crossword</h3>
+            <p class="people">1</p>
+        </li>
+        <li>
+            <h3 class="name">Ping Pong</h3>
+            <p class="people">2</p>
+        </li>
+    </ul>
+
+</div>
 </body>
 </html>
