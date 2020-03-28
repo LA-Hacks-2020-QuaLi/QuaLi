@@ -1,8 +1,8 @@
 [
   {
     "activity": "puzzle",
-    "category": "",
-    "time_hrs": 2,
+    "category": "entertainment",
+    "time_hrs": [0,2],
     "num_people": [
       1,
       5
@@ -11,15 +11,107 @@
       "puzzle pieces"
     ],
     "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "https://www.rd.com/wp-content/uploads/2020/01/GettyImages-87487497.jpg",
     "tags": ["collaborative", "fun", "family"]
+  },
+  {
+    "activity": "Learn an Instrument",
+    "category": "entertainment",
+    "time_hrs": [0,100],
+    "num_people": [1],
+    "materials": ["any instrument"],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "https://www.google.com/search?q=guitar&tbm=isch&ved=2ahUKEwi7uLLuir7oAhVRh54KHa6FBxEQ2-cCegQIABAA&oq=guitar&gs_lcp=CgNpbWcQAzIECAAQQzIFCAAQgwEyBAgAEEMyBAgAEEMyBAgAEEMyAggAMgQIABBDMgQIABBDMgIIADIECAAQQzoECCMQJ1DbF1ihIGCVI2gAcAB4AIAB7gGIAcQFkgEFMy4yLjGYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ei=y71_XvumJ9GO-gSui56IAQ&bih=752&biw=1440&safe=off&tbs=itp%3Aclipart&hl=en#imgrc=oJukbJoi1yJI9M",
+    "tags": ["fun", "challenging", "music"]
+  },
+  {
+    "activity": "Read",
+    "category": "Entertainment",
+    "time_hrs": [0,10],
+    "num_people": [1],
+    "materials": ["A book"],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "https://www.google.com/search?q=book&safe=off&sxsrf=ALeKk03xDgJHpZwk0r7RYUks8bCf7nc0UA:1585430270970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie4feAjL7oAhXbJzQIHdGeDk0Q_AUoAXoECA8QAw&biw=1440&bih=752#imgrc=0teB7JJViGBIDM",
+    "tags": ["educational", "relaxing"]
+  },
+  {
+    "activity": "Learn a Language",
+    "category": "Educational",
+    "time_hrs": [0,100],
+    "num_people": [1],
+    "materials": ["Duolingo", "Dictionary", "A laptop"],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.communicaid.com%2Fbusiness-language-courses%2Fblog%2Ftips-for-learning-a-foreign-language-outside-the-training-room%2F&psig=AOvVaw3aPuzvg12if_Jy3KR3Sm9d&ust=1585516909473000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjqyfSMvugCFQAAAAAdAAAAABAI",
+    "tags": ["useful"]
   },
   {
     "activity": "",
     "category": "",
-    "time_hrs": 0,
+    "time_hrs": [],
     "num_people": [],
     "materials": [],
-    "URL": "",
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
+    "tags": []
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": [],
+    "num_people": [],
+    "materials": [],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
+    "tags": []
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": [],
+    "num_people": [],
+    "materials": [],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
+    "tags": []
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": [],
+    "num_people": [],
+    "materials": [],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
+    "tags": []
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": [],
+    "num_people": [],
+    "materials": [],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
+    "tags": []
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": [],
+    "num_people": [],
+    "materials": [],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
+    "tags": []
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": [],
+    "num_people": [],
+    "materials": [],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "PHOTO": "",
     "tags": []
   }
 ]
