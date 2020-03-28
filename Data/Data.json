@@ -1,0 +1,25 @@
+[
+  {
+    "activity": "puzzle",
+    "category": "",
+    "time_hrs": 2,
+    "num_people": [
+      1,
+      5
+    ],
+    "materials": [
+      "puzzle pieces"
+    ],
+    "URL": "https://www.usatoday.com/story/life/health-wellness/2020/03/16/coronavirus-quarantine-100-things-do-while-trapped-inside/5054632002/",
+    "tags": ["collaborative", "fun", "family"]
+  },
+  {
+    "activity": "",
+    "category": "",
+    "time_hrs": 0,
+    "num_people": [],
+    "materials": [],
+    "URL": "",
+    "tags": []
+  }
+]
