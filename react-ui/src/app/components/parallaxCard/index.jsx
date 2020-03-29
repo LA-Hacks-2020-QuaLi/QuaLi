@@ -43,8 +43,8 @@ export class ParallaxCard extends React.Component {
     }
       
     cardBgTransform() {
-        const tX = this.mousePX() * -40;
-        const tY = this.mousePY() * -40;
+        const tX = this.mousePX() * -5;
+        const tY = this.mousePY() * -5;
         return {
           transform: `translateX(${tX}px) translateY(${tY}px)`,
           backgroundImage: `url(${this.props.dataImage})`

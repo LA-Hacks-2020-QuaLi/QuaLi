@@ -1,0 +1,4 @@
+.row .no-float {
+    display: table-cell;
+    float: none;
+}

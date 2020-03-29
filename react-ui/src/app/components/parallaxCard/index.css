@@ -11,15 +11,9 @@
     display: flex;
     /* flex-wrap: wrap; */
     justify-content: center;
+    background-color: #F7F7F7;
 }
 
-*,
-*:before,
-*:after {
-    -webkit-box-sizing: content-box !important;
-    -moz-box-sizing: content-box !important;
-    box-sizing: content-box !important;
-}
 .card-wrap {
     margin: 10px;
     transform: perspective(800px);
@@ -69,8 +63,8 @@
 .card-bg {
     opacity: 0.5;
     position: absolute;
-    top: -20px;
-    left: -20px;
+    /* top: -20px;
+    left: -20px; */
     width: 100%;
     height: 100%;
     padding: 20px;
