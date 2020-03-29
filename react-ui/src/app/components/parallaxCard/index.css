@@ -6,10 +6,10 @@
     text-align: center;
 }
 
-.container {
+.card-wrapper {
     padding: 40px 80px;
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
 }
 
